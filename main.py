@@ -1,4 +1,6 @@
 import pandas as pd
+from fastapi import FastAPI
+
 
 data = {
     'col1':['a1', 'a2', 'a3'],
